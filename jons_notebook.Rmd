@@ -36,7 +36,7 @@ simulated_patient_data %>%
 Interactive data viz
 
 ```{r}
-
+plotly::plot_ly(simulated_patient_data)
 ```
 
 ETC
