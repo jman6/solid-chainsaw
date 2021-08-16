@@ -42,7 +42,7 @@ plotly::plot_ly(simulated_patient_data)
 ETC
 
 ```{r}
-
+print("eh")
 ```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
